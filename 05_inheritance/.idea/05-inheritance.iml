@@ -10,13 +10,8 @@
   <component name="PyNamespacePackagesService">
     <option name="namespacePackageFolders">
       <list>
-        <option value="$MODULE_DIR$/l01-single-inheritance/project" />
-        <option value="$MODULE_DIR$/l02-multiple-inheritance/project" />
-        <option value="$MODULE_DIR$/е01-person/project" />
-        <option value="$MODULE_DIR$/е02-zoo/project" />
-        <option value="$MODULE_DIR$/e03-players-monsters/project" />
-        <option value="$MODULE_DIR$/e04-need-for-speed/project" />
-        <option value="$MODULE_DIR$/e05-restaurant/project" />
+        <option value="$MODULE_DIR$/lab" />
+        <option value="$MODULE_DIR$/exercise/e05_restaurant" />
       </list>
     </option>
   </component>
