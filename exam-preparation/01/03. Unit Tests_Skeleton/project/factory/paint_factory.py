@@ -1,4 +1,4 @@
-from .factory import Factory
+from project.factory.factory import Factory
 
 
 class PaintFactory(Factory):
@@ -28,3 +28,6 @@ class PaintFactory(Factory):
     @property
     def products(self):
         return self.ingredients
+
+
+
